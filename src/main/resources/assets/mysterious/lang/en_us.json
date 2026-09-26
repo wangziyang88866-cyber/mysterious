@@ -1,0 +1,11 @@
+{
+  "message.mysterious.item_stolen": "Amon stole %s",
+  "message.mysterious.item_sealed": "%s has been sealed",
+  "entity.mysterious.amon": "Amon",
+  "entity.mysterious.phantom_clock": "Phantom Clock",
+  "entity.mysterious.worm_of_time": "Worm of Time",
+  "effect.mysterious.parasite": "Parasite",
+  "bossbar.mysterious.amon.phase_one": "Amon — Phase I ×%s",
+  "bossbar.mysterious.amon.phase_two": "Amon — Phase II",
+  "bossbar.mysterious.amon.phase_three": "Amon — Phase III"
+}

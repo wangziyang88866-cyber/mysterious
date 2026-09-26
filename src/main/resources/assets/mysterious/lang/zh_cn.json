@@ -1,0 +1,11 @@
+{
+  "message.mysterious.item_stolen": "阿蒙偷走了 %s",
+  "message.mysterious.item_sealed": "%s 已被封印",
+  "entity.mysterious.amon": "阿蒙",
+  "entity.mysterious.phantom_clock": "幻影时钟",
+  "entity.mysterious.worm_of_time": "时间之虫",
+  "effect.mysterious.parasite": "寄生虫",
+  "bossbar.mysterious.amon.phase_one": "阿蒙 · 第一阶段 ×%s",
+  "bossbar.mysterious.amon.phase_two": "阿蒙 · 第二阶段",
+  "bossbar.mysterious.amon.phase_three": "阿蒙 · 第三阶段"
+}
